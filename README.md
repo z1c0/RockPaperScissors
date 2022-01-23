@@ -1,1 +1,3 @@
-# RockPaperScissors
+# Rock, Paper, Scissors
+
+🪨 📰 ✂️
